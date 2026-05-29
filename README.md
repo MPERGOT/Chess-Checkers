@@ -12,7 +12,7 @@
 - [ ] Анимации при наведении
 
 ## Ссылка на демо
-- [GitHub Pages]: https://github.com/MPERGOT/Chess-Checkers
+- [GitHub Pages]: MPERGOT.github.io
 
 ## Telegram
 - @SIR_MPERGOT
